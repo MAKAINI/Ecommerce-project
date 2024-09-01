@@ -1,0 +1,8 @@
+{
+    "/oauth2": {
+      "target": "https://dev-41072101.okta.com",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    }
+  }
